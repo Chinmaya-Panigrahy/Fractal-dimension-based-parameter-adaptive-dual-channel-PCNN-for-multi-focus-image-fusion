@@ -4,8 +4,6 @@ Panigrahy, C., Seal, A. and Mahato, N.K., 2020. Fractal dimension based paramete
 
 Usage of this code is free for research purposes only.
 
-If you want .m files of the respective .p files, please mail me. That files will be given upon request.
-
 Please cite the above publication if you use this code.
 
 The demo file is Script_Gray.m for fusing two gray-scale images whereas Script_Color.m is for fusing two color images. 
